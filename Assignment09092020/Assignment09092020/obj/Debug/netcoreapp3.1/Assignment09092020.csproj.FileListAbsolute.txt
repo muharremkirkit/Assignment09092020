@@ -1,0 +1,13 @@
+C:\Users\Muharrem\source\repos\Assignment09092020\Assignment09092020\bin\Debug\netcoreapp3.1\Assignment09092020.exe
+C:\Users\Muharrem\source\repos\Assignment09092020\Assignment09092020\bin\Debug\netcoreapp3.1\Assignment09092020.deps.json
+C:\Users\Muharrem\source\repos\Assignment09092020\Assignment09092020\bin\Debug\netcoreapp3.1\Assignment09092020.runtimeconfig.json
+C:\Users\Muharrem\source\repos\Assignment09092020\Assignment09092020\bin\Debug\netcoreapp3.1\Assignment09092020.runtimeconfig.dev.json
+C:\Users\Muharrem\source\repos\Assignment09092020\Assignment09092020\bin\Debug\netcoreapp3.1\Assignment09092020.dll
+C:\Users\Muharrem\source\repos\Assignment09092020\Assignment09092020\bin\Debug\netcoreapp3.1\Assignment09092020.pdb
+C:\Users\Muharrem\source\repos\Assignment09092020\Assignment09092020\obj\Debug\netcoreapp3.1\Assignment09092020.AssemblyInfoInputs.cache
+C:\Users\Muharrem\source\repos\Assignment09092020\Assignment09092020\obj\Debug\netcoreapp3.1\Assignment09092020.AssemblyInfo.cs
+C:\Users\Muharrem\source\repos\Assignment09092020\Assignment09092020\obj\Debug\netcoreapp3.1\Assignment09092020.csproj.CoreCompileInputs.cache
+C:\Users\Muharrem\source\repos\Assignment09092020\Assignment09092020\obj\Debug\netcoreapp3.1\Assignment09092020.dll
+C:\Users\Muharrem\source\repos\Assignment09092020\Assignment09092020\obj\Debug\netcoreapp3.1\Assignment09092020.pdb
+C:\Users\Muharrem\source\repos\Assignment09092020\Assignment09092020\obj\Debug\netcoreapp3.1\Assignment09092020.genruntimeconfig.cache
+C:\Users\Muharrem\source\repos\Assignment09092020\Assignment09092020\obj\Debug\netcoreapp3.1\Assignment09092020.csprojAssemblyReference.cache
